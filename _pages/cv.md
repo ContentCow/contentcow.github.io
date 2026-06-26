@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Cats & Science"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Famous Cats
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Cheeto
+* Physics Cat
+* Publishing kitty
 
 Work experience
 ======
