@@ -1,0 +1,57 @@
+/* ==========================================================================
+   mavroudisv / plain-academic custom styling
+   ========================================================================== */
+
+/* Navbar styling */
+.navbar-inverse {
+    background-color: #222222;
+    border-color: #080808;
+    border-radius: 0px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #9d9d9d;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #ffffff;
+}
+
+/* Page typography */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #333333;
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    border-bottom: 1px solid #eeeeee;
+    padding-bottom: 9px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Links */
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #23527c;
+    text-decoration: underline;
+}
+
+/* Image framing */
+.img-thumbnail {
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    max-width: 100%;
+    height: auto;
+}
